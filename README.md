@@ -9,11 +9,15 @@ This Unity project offers a robust car physics simulation for game developers, r
 
 ## Key Features
 
-• **Realistic Suspension:** Simulate authentic car suspension with adjustable parameters such as rest length, spring stiffness, and damping. 
-• **Steering Dynamics:** Implement accurate steering dynamics, including Ackermann geometry for realistic turning behavior. 🔄
-• **Modular Design:** Easily integrate the car physics simulation into your Unity projects, making it suitable for both game development and research purposes. 🛠️
-• **Customizable Parameters:** Fine-tune various parameters like wheelbase, track width, and turn radius to match the characteristics of different vehicles. ⚙️
-• **Intuitive Usage:** A user-friendly API allows developers to interact with the car physics system effortlessly. 🎮
+• Realistic Suspension:Simulate authentic car suspension with adjustable parameters such as rest length, spring stiffness, and damping. 
+
+• Steering Dynamics:Implement accurate steering dynamics, including Ackermann geometry for realistic turning behavior. 🔄
+
+• Modular Design: Easily integrate the car physics simulation into your Unity projects, making it suitable for both game development and research purposes. 🛠️
+
+• Customizable Parameters:Fine-tune various parameters like wheelbase, track width, and turn radius to match the characteristics of different vehicles. ⚙️
+
+• Intuitive Usage:A user-friendly API allows developers to interact with the car physics system effortlessly. 🎮
 
 ## How to Use
 
